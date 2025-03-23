@@ -14,4 +14,5 @@ What I´ve done:
 - added a dip switch for muting the internal speaker.
 - cut the negative speaker wire and installed in between one of the switch for muting the speaker
   to be able to listen on my own.
+![IMG_20250323_174430](https://github.com/user-attachments/assets/474e42b1-9f76-4f37-a0b7-cde7504d00bc)
 
