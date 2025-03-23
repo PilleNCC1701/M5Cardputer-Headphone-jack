@@ -1,5 +1,6 @@
 # M5Cardputer-Headphone-jack
 Small Modification of my M5Cardputer.
+I´ll make a tutorial with pictures soon. 
 
 What I´ve done:
 - bypassed the I2S connection to the build-in mono amp and moved it outside into a XH-5Y socket.
